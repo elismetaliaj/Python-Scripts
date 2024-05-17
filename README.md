@@ -1,2 +1,2 @@
 # Python-Scripts
-List of python scripts for automating your tasks 
+This is a simple python script that configure router and assign ip add
